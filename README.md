@@ -7,6 +7,6 @@
 Hi there 👋
 
 *  :orange_book: Focusing on Robotic & Autonomous Driving
-*  :ram: A 3D perception rookie
+*  :ram: rookie of the 3D perception 
 * :meat_on_bone: C++ lover
 
