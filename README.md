@@ -25,11 +25,9 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<p align="center">
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuyangJunyuan&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OuyangJunyuan&theme=radical">
-<p align="center">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=OuyangJunyuan&show_icons=true&theme=gruvbox&hide_title=true"/>
 
+
+ 
 <h2 align="center">About me</h2>
 <p align="center">
     Hello! My name is Ouyang Junyuan, a master at nROS-lab, HITsz.
@@ -39,5 +37,15 @@
 *  :ram: rookie of the 3D perception 
 * :meat_on_bone: C++ lover 
 
-
-
+<table align="center" width="100%">
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OuyangJunyuan&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+    </td>
+    <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=OuyangJunyuan&show_icons=true&hide_title=truelayout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=OuyangJunyuan&theme=radical">
+    </td>
+  </tr>
+</table>
