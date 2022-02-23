@@ -30,7 +30,7 @@
  
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello! My name is Ouyang Junyuan, a master at nROS-lab, HITsz.
+    There is Ouyang Junyuan, a master at nROS-lab, HITsz.
 </p>
 
 *  :orange_book: Focusing on Robotic & Autonomous Driving
