@@ -30,7 +30,7 @@
  
 <h2 align="center">About </h2>
 <p align="center">
-    There is Ouyang Junyuan, a master at nROS-lab, HITsz.
+    Ouyang Junyuan, a graduate student at nROS-lab, HITsz.
 </p>
 
 *  :orange_book: Focusing on Robotic & Autonomous Driving
