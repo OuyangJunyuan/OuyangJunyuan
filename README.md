@@ -28,13 +28,13 @@
 
 
  
-<h2 align="center">About me</h2>
+<h2 align="center">About </h2>
 <p align="center">
     There is Ouyang Junyuan, a master at nROS-lab, HITsz.
 </p>
 
 *  :orange_book: Focusing on Robotic & Autonomous Driving
-*  :ram: rookie of the 3D perception 
+*  :ram: 3D Perception Rookie
 * :meat_on_bone: C++ lover 
 
 <table align="center" width="100%">
